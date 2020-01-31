@@ -12,7 +12,7 @@ Designed sand implemented a simple andriod app using Java.
 App Walk Through
 this is a gif of my app
 
-<img src="https://i.imgur.com/1OKtwfY.gif" width=200>
+<img src="https://i.imgur.com/1OKtwfY.gif" width=400>
 
 
 
